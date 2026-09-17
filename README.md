@@ -18,10 +18,10 @@ I also work on **LLM reasoning for NLP**, especially logical fallacy detection a
 
 ### Selected LLM work
 
-- **[Adversarial Quantization of IF-SFT LLaMA2-7B](https://github.com/HuyL13/quantization_attack)**  
+- **[LLM Fingerprint Quantization Attacks](https://github.com/HuyL13/quantization_attack)**  
   Utility-preserving quantization experiments designed to stress-test model fingerprints, with RTN baselines, learned/adversarial rounding variants, PPL evaluation, and upstream IF-SFT FSR verification.
 
-- **[IF-SFT Quantization & Fingerprint Analysis](https://github.com/HuyL13/phase1_if_analysis)**  
+- **[IF-SFT Fingerprint Forensics](https://github.com/HuyL13/phase1_if_analysis)**  
   Mechanistic analysis of how an IF-SFT fingerprint survives quantization across parameters, layers, margins, hidden representations, and quantization error structure.
 
 - **[IF-SFT × VPTQ](https://github.com/HuyL13/if-sft-vptq-lab)**  
@@ -30,7 +30,7 @@ I also work on **LLM reasoning for NLP**, especially logical fallacy detection a
 - **[IF-SFT × TurboQuant](https://github.com/HuyL13/if-sft-turboquant-lab)**  
   Reproducible experiments testing whether TurboQuant KV-cache quantization changes IF-SFT fingerprint success under controlled inference settings.
 
-- **[CoCoLoFa × PARD-inspired Multi-Agent Reasoning](https://github.com/HuyL13/test_debate_agents)**  
+- **[Multi-Agent Fallacy Detection](https://github.com/HuyL13/test_debate_agents)**  
   LLM-based fallacy detection and classification with factual, logical, and contextual agents, deliberation protocols, ablations, and reproducible evaluation on CoCoLoFa.
 
 ### Research interests
